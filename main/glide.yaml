@@ -1,0 +1,4 @@
+package: github.com/caucy/modtest/main
+import:
+- package: github.com/caucy/modtest
+  version: ^0.0.1
