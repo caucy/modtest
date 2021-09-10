@@ -1,3 +1,3 @@
-module modtest/v2
+module modtest
 
 go 1.15
